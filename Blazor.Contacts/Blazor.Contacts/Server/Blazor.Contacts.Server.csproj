@@ -9,6 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Blazor.Contacts.Wasm.Repositories\Blazor.Contacts.Wasm.Repositories.csproj" />
     <ProjectReference Include="..\Client\Blazor.Contacts.Client.csproj" />
     <ProjectReference Include="..\Shared\Blazor.Contacts.Shared.csproj" />
   </ItemGroup>
